@@ -42,14 +42,14 @@ string binary_count(unsigned int iNumber) {
     const unsigned int maxNumber = 10008000;
     stringstream resultStr;
     if(iNumber > maxNumber) {
-        resultStr << "Your number is more than " << maxNumber << " or less than zero!" << endl;
+        resultStr << "Your number is more than " << maxNumber << " or less than zero!";
         return resultStr.str();
     }
     bitset<32> bNumber(iNumber);
     size_t ones = bNumber.count();
     size_t zeros = bNumber.size() - ones;
 
-    if(bNumber.test(13)) resultStr << "Zeros count: " << zeros << endl;
-    else resultStr << "Ones count: " << ones << endl;
+    if(bNumber.test(13)) resultStr << "Zeros count: " << zeros;
+    else resultStr << "Ones count: " << ones;
     return resultStr.str();
 }
