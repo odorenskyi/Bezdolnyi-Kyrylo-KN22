@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683366200 source:c:\git\bezdolnyi-kyrylo-kn22\lab10\prj\modulesbezdolny\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<bitset>
+	<sstream>
+	<cstring>
+	<ctime>
+
