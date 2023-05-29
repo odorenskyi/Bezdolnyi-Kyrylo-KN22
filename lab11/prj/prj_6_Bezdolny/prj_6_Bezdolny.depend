@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1685364934 source:c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\prj_6_paschenko\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"ModulesPaschenko.h"
+	"ModulesBezdolnyi.h"
+	"ModulesShchychenko.h"
+
+1685339890 c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\.h-files\modulespaschenko.h
+	"struct_type_project_6.h"
+	<vector>
+
+1685338733 c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\.h-files\struct_type_project_6.h
+
+1685339939 c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\.h-files\modulesbezdolnyi.h
+	<vector>
+	<struct_type_project_6.h>
+
+1685338760 c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\.h-files\modulesshchychenko.h
+	<vector>
+	"struct_type_project_6.h"
+

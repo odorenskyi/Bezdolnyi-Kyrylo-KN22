@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685361584 source:c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\modulesshchychenko\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"struct_type_project_6.h"
+
+1685338733 c:\users\user\documents\pashchenko-danylo-kn22\lab11\prj\.h-files\struct_type_project_6.h
+
